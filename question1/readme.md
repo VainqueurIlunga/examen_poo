@@ -1,0 +1,1 @@
+creer une classe "Personne" avec les attributs "nom", "prenom", "age". ajoutez une methode afficher_info() qui affiche les informations de la personne.
